@@ -15,7 +15,7 @@ print(yo)
 #concatenation
 adi = "yo Man wassup"
 singh = " cool Man"
-print((adi+singh).upper())
+print((adi+singh).upper(),end=" next:")
 print((adi+singh).lower())
 print((adi+singh).capitalize())#starting alphabet
 print((adi+singh).title())
